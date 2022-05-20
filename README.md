@@ -1,1 +1,1 @@
-# discord-series-updater
+# discord-series-bot
