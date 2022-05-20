@@ -7,5 +7,5 @@ Tiny Discord bot that gets series updates from different Discord servers and oth
 
 ## Setup
 2. Run ``npm i`` in project directory
-3. Add ``config.json`` file with ``token`` (Discord Bot Token) and ``updatesChannelId`` (Discord channel to post series updates to)
+3. Add ``config.json`` file with ``token`` (Discord Bot Token), ``updatesChannelId`` (Discord channel to post series updates to) and ``readsChannelId`` (Discord channel to get series updates from)
 4. Run ``node .``
